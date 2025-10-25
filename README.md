@@ -46,7 +46,7 @@ Se empleó **Regresión Logística** con la librería `scikit-learn`.
 
 ---
 
-##Predicción 
+## Predicción 
 
 Para generar predicciones se utilizó el archivo `dataset_test_5_sin_etiqueta.csv`.
 Este conjunto de datos también carecía de valores nulos, por lo que se aplicó el mismo proceso antes de realizar la predicción.
